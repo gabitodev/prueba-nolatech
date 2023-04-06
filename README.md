@@ -2,6 +2,8 @@
 ## SQL
 Pueden encontrar los ejercicios resueltos en el archivo ```sql.test.js```.
 
+Los tests tienen los nombres de las tareas.
+
 Se usó la libreria de testeo **jest**.
 La base de datos sql esta hecha con **sqlite3**.
 
